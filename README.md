@@ -1,2 +1,2 @@
 # Assignments
-This repository contains the description about of each assignments that will be given as course work.
+This Branch contains Docker case study assignment soultion.
